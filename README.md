@@ -1,1 +1,1 @@
-This a obstacle avoiding game made in python.
+This is a obstacle avoiding game made in python.
